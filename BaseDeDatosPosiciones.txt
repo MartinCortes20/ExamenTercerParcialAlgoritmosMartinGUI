@@ -1,0 +1,8 @@
+A Mexico 44
+B UK 38
+C Canada 34
+D Francia 33
+E EUA 31
+F Colombia 29
+G Italia 28
+
